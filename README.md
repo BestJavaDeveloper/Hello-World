@@ -1,2 +1,4 @@
 # Hello-World
-Just another repository
+Hello, humans!
+
+I like programming and python, of course!
