@@ -1,4 +1,4 @@
 # Hello-World
 Hello, humans!
 
-I like programming and python, of course!
+It`s like HELLO WORLD in Git`s world!
