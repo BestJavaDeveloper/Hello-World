@@ -1,2 +1,4 @@
 # Hello-World
-Just another repository
+Hello, humans!
+
+It`s like HELLO WORLD in Git`s world!
